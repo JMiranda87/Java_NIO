@@ -1,0 +1,3 @@
+This is the content of File2.txt.
+It also contains sample text for our NIO example.
+We'll combine this with File1.txt in our output.

@@ -1,0 +1,2 @@
+This is the content of File1.txt.
+It contains some sample text for our NIO example.
